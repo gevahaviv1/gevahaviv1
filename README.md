@@ -3,7 +3,7 @@ I'm a second-year computer science student at the Hebrew University. I have a st
 
 In my free time, I love working on personal programming projects and contributing to open source software. I thrive on learning new things and embracing new challenges, always striving to expand my knowledge and skills as a computer scientist. If you'd like to connect or collaborate, feel free to reach out!
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geva-haviv/) 
 
 # 💻 Tech Stack:
