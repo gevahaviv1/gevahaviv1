@@ -1,18 +1,37 @@
-# 💫 About Me:
-I'm a second-year computer science student at the Hebrew University. I have a strong passion for programming and enjoy exploring various areas of computer science, including machine learning, cryptography, and cybersecurity.
+# 💫 About Me
+I am a **final-semester Computer Science student** at The Hebrew University of Jerusalem, driven by a fascination with how code interacts with silicon. My expertise lies at the intersection of **Low-Level Systems Engineering**, **High-Performance Networking**, and **Offensive Security**.
 
-In my free time, I love working on personal programming projects and contributing to open source software. I thrive on learning new things and embracing new challenges, always striving to expand my knowledge and skills as a computer scientist. If you'd like to connect or collaborate, feel free to reach out!
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geva-haviv/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gevahaviv1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gevahaviv1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gevahaviv1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I thrive on deconstructing complex systems and optimizing the bridge between hardware and software. Whether it’s engineering RDMA-based communication libraries or investigating Linux kernel vulnerabilities, I focus on building software that is as efficient as it is secure.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gevahaviv1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 What I'm working on:
+- **Systems Engineering:** Developing **RDMA-based ring collectives** and low-latency communication protocols for distributed systems.
+- **Security Research:** Exploring **memory corruption exploits** (ROP chains, Buffer Overflows) and network protocol vulnerabilities like the **Kaminsky DNS attack**.
+- **PropTech Innovation:** Building the future of residential management through a scalable building-management platform.
+
+### 🛡️ Professional Background:
+- **Product:** Bridging the gap between technical execution and business logic as a Product Lead in the PropTech space.
+- **Personal:** Outside of the terminal, I am a **Professional Meat Lover**—I take my BBQ as seriously as my C code.
+
+---
+
+### 💻 Tech Stack
+
+| **Low Level & OS** | **Networking & Security** | **General Tech** |
+| :--- | :--- | :--- |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![RDMA](https://img.shields.io/badge/RDMA-High_Performance-blue) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![x64 Assembly](https://img.shields.io/badge/x64_Assembly-red?style=flat) | ![DNS/TCP/IP](https://img.shields.io/badge/TCP/IP-Security-orange) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| ![Linux Internals](https://img.shields.io/badge/Linux_Internals-FCC624?style=flat&logo=linux&logoColor=black) | ![Offensive Security](https://img.shields.io/badge/Exploit_Dev-darkred?style=flat) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) | ![Socket Programming](https://img.shields.io/badge/Sockets-C-blue) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+---
+
+### 📊 My Stats
+![Geva's GitHub stats](https://github-readme-stats.vercel.app/api?username=gevahaviv1&theme=dark&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gevahaviv1&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geva-haviv/)
