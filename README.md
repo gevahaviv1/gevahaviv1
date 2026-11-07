@@ -1,7 +1,9 @@
 # 💫 About Me
-I am a **final-semester Computer Science student** at The Hebrew University of Jerusalem, driven by a fascination with how code interacts with silicon. My expertise lies at the intersection of **Low-Level Systems Engineering**, **High-Performance Networking**, and **Offensive Security**.
+Computer Science graduate from The Hebrew University and PropTech Founder, operating at the intersection of technical execution and high-level strategy.
 
-I thrive on deconstructing complex systems and optimizing the bridge between hardware and software. Whether it’s engineering RDMA-based communication libraries or investigating Linux kernel vulnerabilities, I focus on building software that is as efficient as it is secure.
+Currently building and leading a PropTech startup, I am deepening my hands-on expertise in product management and system architecture. I enjoy deconstructing complex systems, whether they are software environments or emerging business models.
+
+My background provides technical rigor, and I am actively expanding my knowledge in business logic, financial modeling, and strategic analysis. I am driven by the challenge of identifying and scaling innovative technologies, with a long-term vision in Venture Capital and Tech Investment.
 
 ---
 
